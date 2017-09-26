@@ -1,2 +1,2 @@
-这是一次测试test ssh key
+test ssh key
 你好
